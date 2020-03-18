@@ -2,7 +2,7 @@
 
 make sure to give notdoge camera access! it needs it to screen objects for your doge.
 
-  <h2>such ML</h2>
+  <h3>such ML</h3>
 
   point your iPhone camera at a doge. doge should be recognized and text will appear. wow!
   
@@ -10,7 +10,14 @@ make sure to give notdoge camera access! it needs it to screen objects for your 
 
   <h2>very editable</h2>
 
-  swipe up on bottom panel to edit memes. touch text to change!
+  swipe up on bottom panel to edit memes
+  
+  ![swipe](/img/IMG_3440_copy.PNG)
+  
+  touch text to change!
+  
+  ![text](img/IMG_3441.PNG)
+  ![new](img/IMG_3442.PNG)
 
 <h1>Privacy Policy</h1>
 
