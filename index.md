@@ -12,7 +12,7 @@ make sure to give notdoge camera access! it needs it to screen objects for your 
 
   swipe up on bottom panel to edit memes
   
-  ![swipe](/img/IMG_3440 copy.PNG)
+  ![swipe](/img/IMG_3440_copy.PNG)
   
   touch text to change!
   
